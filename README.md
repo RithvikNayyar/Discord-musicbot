@@ -1,4 +1,6 @@
-# Discord-musicbot
+# This bot is no longer working as youtube changed its guidelines and we appreciate it.
+
+### Discord-musicbot
 A Discord Music Bot made my Me and my Partner Saksham Gupta in python. You Can Edit the code as you like just don't misuse it.
 
 This is a simple Discord music bot that allows users to play music, adjust volume, skip tracks, and more. The bot uses `discord.py` for interacting with Discord, `yt-dlp` for fetching music from YouTube, and SQLite for storing server-specific data.
